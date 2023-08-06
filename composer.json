@@ -1,0 +1,15 @@
+{
+    "name": "comsitec/package_log",
+    "autoload": {
+        "psr-4": {
+            "Log\\PackageLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GuillexD",
+            "email": "enrique2003junior@gmail.com"
+        }
+    ],
+    "require": {}
+}

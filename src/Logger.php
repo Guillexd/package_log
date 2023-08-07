@@ -14,7 +14,7 @@ class Logger {
     protected function generateWord(): string {
         $word = '';
         for ($i = 0; $i < $this->_num; $i++) { 
-            $word .= $this->_word . ' ';
+            $word .= $this->_word . '__';
         }
         return $word;
     }
